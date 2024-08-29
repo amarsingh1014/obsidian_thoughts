@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Your Page Title"
+---
 
 <iframe width="633" height="356" src="https://www.youtube.com/embed/5RHSS-zMaAQ" title="The shocking connection between complex numbers and geometry." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

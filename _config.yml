@@ -38,6 +38,8 @@ relative_links:
   collections: true
 exclude:
   - .obsidian/
+include:
+  - "*.md"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
