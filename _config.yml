@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feedi
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: true
